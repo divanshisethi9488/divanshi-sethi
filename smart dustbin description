@@ -1,0 +1,7 @@
+AIM  : TO MAKE A SMART DUSTBIN THAT SENSES THE PERSENCE OF A PERSON TO A LIMITED RANGE OF DISTANCE AND AUTOMATICALLY LIFTS UP THE DUSTBIN COVER .
+
+MATERIAL USED : A plastic bin , Arduino uno , ultrasonic sensor , a 12 volt battery ,  9g servomotor , connecting wires , a strong thread .
+DESCRIPTION AND DETAIL OF THE PRODUCT
+It is a smart dustbin we made using Arduino. This senses the presence of any object or human which when comes in its range and automatically lifts up the cover of the bin so that the garbage may be easily disposed off in it. The ultrasonic sensor used here senses the presence of any object around it and the 9g servo used lifts up the cover when the object is at an appropriate distance. The battery used provides the power for the whole system to run efficiently. 
+ WHY A SMART DUSTBIN ?
+In this world of automation, where human has automated everything then why not an automated “SMART” dustbin. Just like automatic doors, we created a smart dustbin which could be used in food courts or self-service stalls or shops where the customer can dispose of his leftovers without even touching the dustbin. This mechanism could even be applied on different objects as well like a washing machine. So, the possibilities are endless which could be further explored and ventured with the advent of time.
